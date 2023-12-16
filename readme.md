@@ -1,1 +1,1 @@
-Once you get to this page, press the . key on your keyboard to get to the editor
+Once you get to this page, press the . key on your keyboard to get to the GitHub editor.
